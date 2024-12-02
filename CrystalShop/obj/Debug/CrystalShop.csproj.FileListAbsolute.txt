@@ -1,0 +1,7 @@
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\CrystalShop\CrystalShop\bin\Debug\CrystalShop.exe.config
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\CrystalShop\CrystalShop\bin\Debug\CrystalShop.exe
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\CrystalShop\CrystalShop\bin\Debug\CrystalShop.pdb
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\CrystalShop\CrystalShop\obj\Debug\CrystalShop.csproj.AssemblyReference.cache
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\CrystalShop\CrystalShop\obj\Debug\CrystalShop.csproj.CoreCompileInputs.cache
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\CrystalShop\CrystalShop\obj\Debug\CrystalShop.exe
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\CrystalShop\CrystalShop\obj\Debug\CrystalShop.pdb
